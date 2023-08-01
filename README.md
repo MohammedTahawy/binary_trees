@@ -259,5 +259,5 @@ Function Prototypes
 
 ## Authors :black_nib:
 
-* __MohammedTahawy__ <[MohammedTahawy](https://github.com/MohammedTahawy)>
+* __Mohammed Tahawy__ <[MohammedTahawy](https://github.com/MohammedTahawy)>
 * __Nondzameko Mhlekwa__ <[Nzamiey98](https://github.com/Nzamiey98)>
